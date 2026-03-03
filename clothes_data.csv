@@ -1,0 +1,1001 @@
+temp,wind,precip,outfit
+12.4,7.0,0.0,Ceket & Sweatshirt
+6.3,33.2,0.0,Deri Ceket & Sweatshirt
+16.8,42.3,0.0,Polo Yaka & Chino Pantolon
+36.4,26.0,0.0,Tişört & Şort
+12.1,29.4,0.0,Rüzgarlık & Kalın Kazak
+32.3,14.2,10.8,Şemsiye & İnce Tişört
+0.1,36.0,1.7,"Kalın Kaban, Bere, Eldiven & Atkı"
+28.8,14.5,0.2,Kısa Kollu Gömlek & Şort
+2.4,42.3,4.0,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+32.9,43.3,5.6,Şemsiye & İnce Tişört
+21.2,15.4,10.6,İnce Yağmurluk & Şort
+2.9,3.5,0.0,Kalın Mont & Kazak
+29.7,41.1,0.0,Tişört & Şort
+20.5,39.6,0.0,Tişört & Şort
+34.2,12.7,0.0,Tişört & Şort
+35.5,5.2,0.0,Tişört & Şort
+30.0,24.4,0.0,Tişört & Şort
+20.9,35.7,0.0,Kısa Kollu Gömlek & Şort
+34.5,2.9,0.0,Tişört & Şort
+26.5,46.9,10.1,İnce Yağmurluk & Şort
+18.9,27.0,0.0,Polo Yaka & Chino Pantolon
+19.3,31.6,0.0,Polo Yaka & Chino Pantolon
+19.3,4.2,13.9,Kapüşonlu Sweatshirt & Şemsiye
+27.3,7.4,0.5,Tişört & Şort
+22.7,6.9,0.0,Kısa Kollu Gömlek & Şort
+16.1,8.4,0.0,İnce Uzun Kollu & Jean
+22.7,10.0,0.0,Kısa Kollu Gömlek & Şort
+26.8,29.1,0.0,Kısa Kollu Gömlek & Şort
+36.8,37.3,8.2,Şemsiye & İnce Tişört
+7.0,45.7,0.0,Rüzgarlık & Kalın Kazak
+17.8,1.8,0.0,İnce Uzun Kollu & Jean
+5.5,48.8,2.9,Su Geçirmez Ceket & Bot
+19.0,12.1,0.0,Gömlek & Keten Pantolon
+31.2,42.1,0.0,Tişört & Şort
+22.1,30.7,5.1,Şemsiye & İnce Tişört
+38.9,45.9,0.0,Kısa Kollu Gömlek & Şort
+8.6,3.9,9.2,Kapüşonlu Sweatshirt & Şemsiye
+16.6,40.4,0.0,Polo Yaka & Chino Pantolon
+26.7,42.6,0.0,Kısa Kollu Gömlek & Şort
+35.4,3.0,0.0,Tişört & Şort
+27.2,37.5,0.0,Tişört & Şort
+4.8,18.9,1.4,Kalın Mont & Kazak
+-0.7,49.9,13.3,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+37.2,9.9,0.0,Tişört & Şort
+-4.7,35.4,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+14.9,46.6,0.0,Polo Yaka & Chino Pantolon
+12.5,8.6,0.0,Hırka & Uzun Kollu Tişört
+-3.6,13.4,12.7,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+25.4,29.6,0.0,Tişört & Şort
+14.6,21.1,0.0,İnce Uzun Kollu & Jean
+24.9,17.6,4.5,Şemsiye & İnce Tişört
+8.3,38.6,0.0,Deri Ceket & Sweatshirt
+7.6,34.7,0.0,Deri Ceket & Sweatshirt
+7.8,42.3,0.0,Rüzgarlık & Kalın Kazak
+33.2,23.7,7.5,Şemsiye & İnce Tişört
+2.3,24.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+16.0,30.6,0.0,Polo Yaka & Chino Pantolon
+-1.2,21.6,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+31.9,33.0,0.0,Kısa Kollu Gömlek & Şort
+38.6,3.4,0.0,Kısa Kollu Gömlek & Şort
+2.2,24.5,7.2,Su Geçirmez Kalın Mont & Bot
+17.1,18.1,5.9,Yağmurluk & Şemsiye
+7.9,5.8,14.7,Kapüşonlu Sweatshirt & Şemsiye
+38.3,7.9,0.0,Kısa Kollu Gömlek & Şort
+21.8,34.1,0.0,Tişört & Şort
+13.3,15.8,0.0,Rüzgarlık & Kalın Kazak
+8.4,43.9,0.0,Deri Ceket & Sweatshirt
+-2.1,7.1,11.1,Su Geçirmez Kalın Mont & Bot
+36.6,30.0,0.0,Kısa Kollu Gömlek & Şort
+11.9,16.8,0.0,Rüzgarlık & Kalın Kazak
+29.7,12.9,0.0,Tişört & Şort
+5.0,48.0,0.0,Rüzgarlık & Kalın Kazak
+30.6,19.7,0.7,Kısa Kollu Gömlek & Şort
+10.0,38.6,0.0,Rüzgarlık & Kalın Kazak
+-1.9,28.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+26.0,39.1,13.3,Şemsiye & İnce Tişört
+37.1,7.5,0.0,Tişört & Şort
+4.1,35.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+8.1,4.8,0.0,Hırka & Uzun Kollu Tişört
+39.1,45.6,0.0,Tişört & Şort
+19.7,12.9,0.0,Gömlek & Keten Pantolon
+38.9,35.5,0.0,Tişört & Şort
+8.3,8.8,9.9,Kapüşonlu Sweatshirt & Şemsiye
+-3.5,26.9,7.3,Su Geçirmez Kalın Mont & Bot
+19.9,36.9,0.0,Polo Yaka & Chino Pantolon
+31.8,36.4,0.0,Kısa Kollu Gömlek & Şort
+30.0,15.2,0.0,Tişört & Şort
+25.4,44.0,0.0,Kısa Kollu Gömlek & Şort
+19.2,33.5,0.0,Polo Yaka & Chino Pantolon
+39.3,14.0,0.0,Tişört & Şort
+2.1,27.0,12.2,Su Geçirmez Kalın Mont & Bot
+30.3,1.8,0.0,Tişört & Şort
+-0.8,42.7,9.9,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+-1.9,41.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+34.7,46.2,5.4,İnce Yağmurluk & Şort
+3.9,20.6,0.0,"Şişme Mont, Termal Tayt & Bere"
+20.2,19.2,11.9,Şemsiye & İnce Tişört
+27.7,10.2,2.9,Şemsiye & İnce Tişört
+36.8,2.0,0.0,Tişört & Şort
+34.1,7.5,0.0,Tişört & Şort
+38.4,1.8,0.0,Kısa Kollu Gömlek & Şort
+5.4,21.9,0.0,Deri Ceket & Sweatshirt
+11.3,7.6,0.0,Hırka & Uzun Kollu Tişört
+29.1,6.3,0.0,Tişört & Şort
+7.4,4.9,0.0,Hırka & Uzun Kollu Tişört
+18.1,44.9,0.0,Polo Yaka & Chino Pantolon
+17.1,6.4,8.0,Su Geçirmez Ceket & Bot
+6.0,36.4,0.0,Rüzgarlık & Kalın Kazak
+-0.3,3.8,4.8,Su Geçirmez Kalın Mont & Bot
+5.1,24.8,0.0,Rüzgarlık & Kalın Kazak
+4.5,36.1,0.0,"Şişme Mont, Termal Tayt & Bere"
+24.6,10.8,0.0,Kısa Kollu Gömlek & Şort
+36.6,3.4,0.0,Tişört & Şort
+6.8,27.1,5.7,Su Geçirmez Ceket & Bot
+-3.7,35.5,0.0,"Şişme Mont, Termal Tayt & Bere"
+8.8,27.3,0.0,Rüzgarlık & Kalın Kazak
+15.6,9.0,0.0,İnce Uzun Kollu & Jean
+15.4,35.8,4.2,Su Geçirmez Ceket & Bot
+18.6,21.1,11.2,Kapüşonlu Sweatshirt & Şemsiye
+-0.3,14.5,4.3,Su Geçirmez Kalın Mont & Bot
+12.3,7.7,0.0,Hırka & Uzun Kollu Tişört
+18.0,33.7,0.0,Polo Yaka & Chino Pantolon
+38.4,17.5,12.9,İnce Yağmurluk & Şort
+-2.6,36.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+29.8,45.0,4.0,Şemsiye & İnce Tişört
+9.4,22.5,0.0,Rüzgarlık & Kalın Kazak
+7.1,37.4,0.0,Deri Ceket & Sweatshirt
+31.5,28.6,10.0,İnce Yağmurluk & Şort
+14.9,14.5,0.0,Gömlek & Keten Pantolon
+3.4,13.0,0.0,Yün Kazak & Kaban
+37.0,44.8,0.0,Tişört & Şort
+-4.5,38.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+38.7,22.5,0.0,Kısa Kollu Gömlek & Şort
+16.3,49.0,0.0,Gömlek & Keten Pantolon
+16.7,14.8,0.0,Polo Yaka & Chino Pantolon
+13.8,1.3,0.0,Hırka & Uzun Kollu Tişört
+33.0,33.2,0.0,Tişört & Şort
+25.3,21.8,0.0,Kısa Kollu Gömlek & Şort
+26.5,43.6,10.4,Şemsiye & İnce Tişört
+-0.9,41.9,0.0,"Şişme Mont, Termal Tayt & Bere"
+3.5,42.0,1.4,"Şişme Mont, Termal Tayt & Bere"
+4.4,48.4,8.1,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+38.4,46.6,0.0,Tişört & Şort
+19.6,23.0,0.0,Gömlek & Keten Pantolon
+37.1,35.9,8.3,İnce Yağmurluk & Şort
+1.1,49.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+33.7,3.6,0.0,Tişört & Şort
+29.8,11.1,0.0,Kısa Kollu Gömlek & Şort
+36.0,37.7,11.1,Şemsiye & İnce Tişört
+26.9,22.0,0.0,Tişört & Şort
+4.2,15.0,0.0,Kalın Mont & Kazak
+5.0,36.5,0.0,Deri Ceket & Sweatshirt
+16.8,48.2,0.0,Gömlek & Keten Pantolon
+32.7,14.4,3.5,İnce Yağmurluk & Şort
+-4.3,16.4,0.3,Yün Kazak & Kaban
+32.7,45.3,0.3,Tişört & Şort
+14.4,18.1,0.0,Gömlek & Keten Pantolon
+10.1,5.6,0.0,Ceket & Sweatshirt
+39.8,38.4,0.0,Kısa Kollu Gömlek & Şort
+17.8,17.5,0.0,Polo Yaka & Chino Pantolon
+7.0,21.4,0.0,Rüzgarlık & Kalın Kazak
+37.8,32.6,12.9,İnce Yağmurluk & Şort
+31.5,31.9,0.0,Tişört & Şort
+8.7,5.9,0.0,Ceket & Sweatshirt
+24.0,8.5,0.0,Kısa Kollu Gömlek & Şort
+16.2,37.8,5.5,Kapüşonlu Sweatshirt & Şemsiye
+0.4,17.8,1.2,Kalın Mont & Kazak
+32.5,48.5,0.0,Kısa Kollu Gömlek & Şort
+23.0,44.4,3.5,İnce Yağmurluk & Şort
+25.2,35.2,0.0,Tişört & Şort
+10.4,39.2,0.0,Rüzgarlık & Kalın Kazak
+34.5,29.8,0.0,Tişört & Şort
+29.9,11.8,0.0,Kısa Kollu Gömlek & Şort
+27.7,42.2,0.0,Tişört & Şort
+16.3,6.4,7.4,Kapüşonlu Sweatshirt & Şemsiye
+26.4,42.2,0.0,Kısa Kollu Gömlek & Şort
+-2.2,16.8,0.0,Kalın Mont & Kazak
+-0.8,8.2,0.0,Kalın Mont & Kazak
+-2.5,32.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+23.0,8.1,0.0,Kısa Kollu Gömlek & Şort
+20.8,0.7,9.3,Şemsiye & İnce Tişört
+1.7,7.7,0.0,Yün Kazak & Kaban
+20.0,15.2,0.0,Tişört & Şort
+19.9,42.9,3.2,Kapüşonlu Sweatshirt & Şemsiye
+33.6,47.4,0.0,Tişört & Şort
+29.2,33.6,0.0,Tişört & Şort
+21.5,46.1,0.0,Kısa Kollu Gömlek & Şort
+34.3,41.6,0.0,Kısa Kollu Gömlek & Şort
+29.9,18.0,0.0,Tişört & Şort
+4.0,30.7,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+17.7,20.3,2.8,Yağmurluk & Şemsiye
+17.1,1.8,2.4,Kapüşonlu Sweatshirt & Şemsiye
+26.9,36.0,0.0,Kısa Kollu Gömlek & Şort
+33.7,7.2,0.0,Tişört & Şort
+20.9,28.4,0.0,Kısa Kollu Gömlek & Şort
+15.5,36.2,0.0,Gömlek & Keten Pantolon
+3.2,6.4,11.4,Su Geçirmez Kalın Mont & Bot
+15.9,35.6,0.0,Gömlek & Keten Pantolon
+9.9,13.5,0.0,Rüzgarlık & Kalın Kazak
+9.7,34.5,0.0,Deri Ceket & Sweatshirt
+-0.8,27.0,0.0,"Şişme Mont, Termal Tayt & Bere"
+17.2,35.7,0.0,İnce Uzun Kollu & Jean
+0.1,47.9,6.6,Su Geçirmez Kalın Mont & Bot
+20.6,10.5,0.0,Kısa Kollu Gömlek & Şort
+36.7,24.6,0.0,Tişört & Şort
+24.2,10.3,12.2,Şemsiye & İnce Tişört
+35.6,43.4,0.0,Tişört & Şort
+10.9,37.5,1.0,Deri Ceket & Sweatshirt
+26.2,44.9,0.0,Kısa Kollu Gömlek & Şort
+-2.4,26.9,0.0,"Şişme Mont, Termal Tayt & Bere"
+22.4,5.5,0.0,Kısa Kollu Gömlek & Şort
+-3.8,25.4,0.8,"Şişme Mont, Termal Tayt & Bere"
+31.3,23.1,0.0,Tişört & Şort
+24.6,50.0,0.0,Kısa Kollu Gömlek & Şort
+35.9,0.0,14.4,İnce Yağmurluk & Şort
+33.3,14.8,0.0,Kısa Kollu Gömlek & Şort
+23.6,42.0,0.0,Kısa Kollu Gömlek & Şort
+39.2,6.6,0.0,Kısa Kollu Gömlek & Şort
+4.4,34.9,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+36.7,19.1,0.0,Tişört & Şort
+11.6,27.6,0.0,Deri Ceket & Sweatshirt
+10.7,15.6,0.0,Deri Ceket & Sweatshirt
+32.0,32.1,14.1,İnce Yağmurluk & Şort
+13.8,20.7,0.0,Rüzgarlık & Kalın Kazak
+30.2,38.9,10.1,Şemsiye & İnce Tişört
+20.3,41.6,3.7,İnce Yağmurluk & Şort
+17.9,0.5,0.0,Gömlek & Keten Pantolon
+4.8,38.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+14.2,35.1,0.0,Gömlek & Keten Pantolon
+20.8,15.4,0.0,Kısa Kollu Gömlek & Şort
+26.7,39.2,0.0,Kısa Kollu Gömlek & Şort
+11.8,20.8,0.0,Deri Ceket & Sweatshirt
+2.8,37.1,7.6,Su Geçirmez Kalın Mont & Bot
+34.1,5.0,0.1,Tişört & Şort
+16.0,25.3,5.4,Su Geçirmez Ceket & Bot
+19.3,23.5,14.5,Su Geçirmez Ceket & Bot
+35.3,36.6,0.0,Kısa Kollu Gömlek & Şort
+28.1,36.0,0.0,Kısa Kollu Gömlek & Şort
+39.3,18.5,0.0,Kısa Kollu Gömlek & Şort
+23.7,41.5,9.1,Şemsiye & İnce Tişört
+31.1,42.9,2.8,Şemsiye & İnce Tişört
+3.0,41.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+17.9,24.7,6.5,Yağmurluk & Şemsiye
+15.7,3.1,0.0,İnce Uzun Kollu & Jean
+-2.6,46.9,2.3,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+14.1,5.3,0.0,İnce Uzun Kollu & Jean
+18.4,46.2,0.0,İnce Uzun Kollu & Jean
+18.2,9.3,0.0,İnce Uzun Kollu & Jean
+28.6,25.7,0.0,Kısa Kollu Gömlek & Şort
+27.9,29.2,0.0,Tişört & Şort
+1.9,32.5,14.5,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+28.1,7.9,1.7,Tişört & Şort
+39.3,17.1,0.0,Kısa Kollu Gömlek & Şort
+20.1,26.0,14.2,İnce Yağmurluk & Şort
+5.1,29.3,0.0,Rüzgarlık & Kalın Kazak
+3.7,26.3,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+-3.8,27.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+15.0,32.4,0.0,İnce Uzun Kollu & Jean
+2.4,0.5,0.0,Kalın Mont & Kazak
+37.8,9.6,12.7,Şemsiye & İnce Tişört
+13.5,29.3,4.1,Su Geçirmez Ceket & Bot
+28.3,28.9,0.8,Kısa Kollu Gömlek & Şort
+28.2,11.0,11.3,Şemsiye & İnce Tişört
+13.4,5.2,0.0,Hırka & Uzun Kollu Tişört
+30.5,7.3,0.0,Tişört & Şort
+-1.8,14.3,3.6,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+-2.9,15.3,0.0,Kalın Mont & Kazak
+17.4,8.7,0.0,Polo Yaka & Chino Pantolon
+-1.0,7.7,1.3,Yün Kazak & Kaban
+16.0,43.2,0.0,Gömlek & Keten Pantolon
+39.3,6.4,0.0,Kısa Kollu Gömlek & Şort
+31.2,38.1,0.0,Tişört & Şort
+31.3,27.8,10.7,Şemsiye & İnce Tişört
+39.2,24.6,0.0,Kısa Kollu Gömlek & Şort
+6.6,45.0,12.6,Su Geçirmez Ceket & Bot
+-3.0,10.5,0.0,Kalın Mont & Kazak
+9.9,5.5,0.0,Hırka & Uzun Kollu Tişört
+10.1,33.2,0.0,Rüzgarlık & Kalın Kazak
+30.1,30.2,0.0,Tişört & Şort
+35.8,33.1,0.0,Kısa Kollu Gömlek & Şort
+23.5,22.6,12.2,İnce Yağmurluk & Şort
+27.8,47.5,0.0,Kısa Kollu Gömlek & Şort
+35.0,21.1,0.0,Tişört & Şort
+23.2,0.1,0.0,Tişört & Şort
+11.2,4.1,0.0,Hırka & Uzun Kollu Tişört
+22.6,30.4,3.5,Şemsiye & İnce Tişört
+12.3,31.1,0.0,Rüzgarlık & Kalın Kazak
+14.4,6.3,0.0,Polo Yaka & Chino Pantolon
+3.2,42.2,13.6,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+32.4,35.0,6.0,İnce Yağmurluk & Şort
+2.6,36.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+29.5,30.6,0.0,Kısa Kollu Gömlek & Şort
+7.7,43.1,0.0,Rüzgarlık & Kalın Kazak
+10.2,10.9,8.9,Yağmurluk & Şemsiye
+25.8,30.7,0.0,Kısa Kollu Gömlek & Şort
+8.5,13.5,0.0,Rüzgarlık & Kalın Kazak
+6.8,46.2,0.0,Deri Ceket & Sweatshirt
+13.2,40.1,0.0,Rüzgarlık & Kalın Kazak
+8.6,49.6,0.0,Rüzgarlık & Kalın Kazak
+10.6,6.9,0.0,Ceket & Sweatshirt
+10.5,12.0,0.0,Ceket & Sweatshirt
+13.2,17.9,13.9,Yağmurluk & Şemsiye
+35.6,46.8,0.0,Tişört & Şort
+0.5,12.7,0.0,Yün Kazak & Kaban
+-0.3,31.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+5.1,37.8,0.0,Deri Ceket & Sweatshirt
+5.9,44.5,10.3,Yağmurluk & Şemsiye
+-0.6,6.5,0.0,Kalın Mont & Kazak
+22.0,16.6,0.0,Kısa Kollu Gömlek & Şort
+2.4,26.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+39.9,45.4,0.0,Kısa Kollu Gömlek & Şort
+38.4,45.7,0.0,Kısa Kollu Gömlek & Şort
+9.0,39.3,0.0,Deri Ceket & Sweatshirt
+-4.5,27.7,4.6,Su Geçirmez Kalın Mont & Bot
+11.6,46.7,13.1,Su Geçirmez Ceket & Bot
+23.0,47.6,0.0,Kısa Kollu Gömlek & Şort
+-4.9,49.8,0.0,"Şişme Mont, Termal Tayt & Bere"
+31.1,34.6,0.0,Tişört & Şort
+8.0,12.2,10.5,Kapüşonlu Sweatshirt & Şemsiye
+-2.7,46.0,0.0,"Şişme Mont, Termal Tayt & Bere"
+39.0,5.4,7.2,Şemsiye & İnce Tişört
+14.2,5.8,0.0,İnce Uzun Kollu & Jean
+10.6,24.8,0.0,Rüzgarlık & Kalın Kazak
+21.9,21.8,0.0,Tişört & Şort
+30.5,17.3,0.0,Kısa Kollu Gömlek & Şort
+8.5,35.7,0.0,Rüzgarlık & Kalın Kazak
+-0.1,32.2,0.0,"Şişme Mont, Termal Tayt & Bere"
+25.0,36.8,8.2,Şemsiye & İnce Tişört
+4.5,27.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+24.0,31.8,0.0,Kısa Kollu Gömlek & Şort
+-2.0,44.7,13.7,Su Geçirmez Kalın Mont & Bot
+33.1,2.8,0.0,Tişört & Şort
+25.4,47.2,0.0,Kısa Kollu Gömlek & Şort
+16.9,48.6,0.0,İnce Uzun Kollu & Jean
+7.3,39.7,14.0,Su Geçirmez Ceket & Bot
+15.7,15.5,12.1,Su Geçirmez Ceket & Bot
+-3.4,43.0,0.0,"Şişme Mont, Termal Tayt & Bere"
+3.9,40.3,3.0,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+2.8,33.4,0.0,"Şişme Mont, Termal Tayt & Bere"
+29.7,2.8,6.9,Şemsiye & İnce Tişört
+9.1,34.4,0.0,Deri Ceket & Sweatshirt
+-3.0,44.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+1.4,16.2,13.0,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+6.1,1.0,2.7,Yağmurluk & Şemsiye
+27.4,34.8,10.6,İnce Yağmurluk & Şort
+16.0,6.6,6.4,Su Geçirmez Ceket & Bot
+22.2,20.0,4.9,Şemsiye & İnce Tişört
+27.9,11.6,4.0,Şemsiye & İnce Tişört
+12.9,43.9,0.0,Rüzgarlık & Kalın Kazak
+14.7,4.8,0.0,Polo Yaka & Chino Pantolon
+32.3,16.0,0.0,Tişört & Şort
+33.9,6.5,0.0,Kısa Kollu Gömlek & Şort
+-1.7,18.8,0.0,Yün Kazak & Kaban
+17.4,27.5,0.0,İnce Uzun Kollu & Jean
+8.1,49.7,13.7,Su Geçirmez Ceket & Bot
+5.2,9.4,0.0,Hırka & Uzun Kollu Tişört
+9.8,26.2,0.0,Deri Ceket & Sweatshirt
+24.3,44.1,0.0,Tişört & Şort
+12.1,17.5,5.6,Yağmurluk & Şemsiye
+35.4,13.1,3.8,İnce Yağmurluk & Şort
+26.6,11.8,0.0,Kısa Kollu Gömlek & Şort
+18.9,4.7,8.1,Yağmurluk & Şemsiye
+21.2,45.8,0.0,Kısa Kollu Gömlek & Şort
+35.1,35.8,0.0,Tişört & Şort
+10.8,32.1,0.0,Deri Ceket & Sweatshirt
+23.0,23.6,2.2,Şemsiye & İnce Tişört
+7.4,8.7,0.0,Ceket & Sweatshirt
+0.8,36.3,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+28.0,11.7,5.5,İnce Yağmurluk & Şort
+-1.2,28.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+6.2,12.9,0.0,Hırka & Uzun Kollu Tişört
+5.3,9.1,3.1,Yağmurluk & Şemsiye
+17.2,13.4,0.2,Polo Yaka & Chino Pantolon
+25.5,36.9,0.0,Kısa Kollu Gömlek & Şort
+12.7,8.6,6.4,Yağmurluk & Şemsiye
+5.8,8.3,0.0,Ceket & Sweatshirt
+38.0,46.4,0.0,Kısa Kollu Gömlek & Şort
+4.5,46.8,0.0,"Şişme Mont, Termal Tayt & Bere"
+4.1,39.0,1.9,"Kalın Kaban, Bere, Eldiven & Atkı"
+16.5,23.8,4.1,Yağmurluk & Şemsiye
+5.5,4.8,0.0,Hırka & Uzun Kollu Tişört
+31.2,48.6,6.8,Şemsiye & İnce Tişört
+31.3,23.9,0.0,Tişört & Şort
+13.9,48.0,6.2,Su Geçirmez Ceket & Bot
+36.9,45.6,0.0,Kısa Kollu Gömlek & Şort
+-0.3,20.8,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+8.6,41.9,0.0,Deri Ceket & Sweatshirt
+34.8,42.5,0.0,Kısa Kollu Gömlek & Şort
+33.8,12.8,5.0,İnce Yağmurluk & Şort
+30.8,39.2,0.2,Tişört & Şort
+4.9,23.6,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+23.6,17.9,0.0,Kısa Kollu Gömlek & Şort
+21.7,2.7,0.0,Tişört & Şort
+14.2,2.6,13.4,Kapüşonlu Sweatshirt & Şemsiye
+11.9,25.8,0.0,Deri Ceket & Sweatshirt
+32.1,33.2,0.0,Tişört & Şort
+34.5,22.4,0.0,Tişört & Şort
+21.8,26.2,8.9,İnce Yağmurluk & Şort
+11.4,13.7,0.0,Rüzgarlık & Kalın Kazak
+8.3,24.1,0.0,Deri Ceket & Sweatshirt
+11.9,49.4,0.0,Rüzgarlık & Kalın Kazak
+11.4,25.7,0.0,Deri Ceket & Sweatshirt
+-2.7,46.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+11.7,42.5,0.0,Rüzgarlık & Kalın Kazak
+29.2,43.8,0.0,Kısa Kollu Gömlek & Şort
+36.8,5.8,0.0,Tişört & Şort
+10.6,29.1,0.0,Deri Ceket & Sweatshirt
+8.5,5.8,0.0,Ceket & Sweatshirt
+23.0,22.1,0.0,Tişört & Şort
+25.8,3.6,12.2,İnce Yağmurluk & Şort
+14.9,13.5,8.2,Kapüşonlu Sweatshirt & Şemsiye
+-2.7,42.1,0.0,"Şişme Mont, Termal Tayt & Bere"
+23.0,7.2,6.7,İnce Yağmurluk & Şort
+26.7,36.8,0.0,Kısa Kollu Gömlek & Şort
+32.5,34.8,13.3,İnce Yağmurluk & Şort
+35.0,43.9,0.0,Tişört & Şort
+19.4,7.0,3.2,Yağmurluk & Şemsiye
+16.8,49.3,0.0,Gömlek & Keten Pantolon
+7.1,6.8,8.2,Su Geçirmez Ceket & Bot
+7.8,34.8,0.0,Deri Ceket & Sweatshirt
+12.4,25.0,0.0,Rüzgarlık & Kalın Kazak
+36.6,0.6,0.0,Tişört & Şort
+37.6,41.5,14.0,Şemsiye & İnce Tişört
+17.9,9.1,0.0,Polo Yaka & Chino Pantolon
+22.0,44.5,0.0,Tişört & Şort
+6.3,26.8,11.9,Su Geçirmez Ceket & Bot
+31.8,3.0,11.3,Şemsiye & İnce Tişört
+17.6,31.1,12.2,Kapüşonlu Sweatshirt & Şemsiye
+13.3,48.0,0.0,Deri Ceket & Sweatshirt
+1.8,14.1,0.0,Yün Kazak & Kaban
+39.6,46.8,10.8,İnce Yağmurluk & Şort
+-1.6,0.5,0.0,Yün Kazak & Kaban
+30.7,20.4,0.0,Tişört & Şort
+15.1,23.2,0.0,Polo Yaka & Chino Pantolon
+19.7,34.1,0.0,Polo Yaka & Chino Pantolon
+25.8,20.6,1.7,Kısa Kollu Gömlek & Şort
+32.4,14.3,13.8,Şemsiye & İnce Tişört
+13.8,13.5,6.0,Su Geçirmez Ceket & Bot
+3.9,15.6,0.0,Yün Kazak & Kaban
+0.3,49.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+22.7,28.0,1.0,Kısa Kollu Gömlek & Şort
+15.3,12.3,7.4,Yağmurluk & Şemsiye
+15.1,2.4,7.3,Kapüşonlu Sweatshirt & Şemsiye
+25.0,27.0,0.0,Kısa Kollu Gömlek & Şort
+37.7,40.6,0.0,Kısa Kollu Gömlek & Şort
+11.4,32.6,0.0,Deri Ceket & Sweatshirt
+29.9,8.4,0.0,Kısa Kollu Gömlek & Şort
+7.3,14.8,0.0,Deri Ceket & Sweatshirt
+20.0,35.3,0.0,Tişört & Şort
+12.3,4.1,0.0,Ceket & Sweatshirt
+2.9,8.1,0.0,Yün Kazak & Kaban
+13.5,21.7,9.1,Kapüşonlu Sweatshirt & Şemsiye
+7.3,27.9,0.0,Rüzgarlık & Kalın Kazak
+36.5,4.8,4.5,İnce Yağmurluk & Şort
+24.1,27.0,0.0,Kısa Kollu Gömlek & Şort
+26.9,11.5,0.0,Kısa Kollu Gömlek & Şort
+2.0,28.2,2.2,Su Geçirmez Kalın Mont & Bot
+13.9,32.3,0.0,Rüzgarlık & Kalın Kazak
+0.5,21.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+31.9,46.4,9.9,İnce Yağmurluk & Şort
+38.6,30.4,3.0,İnce Yağmurluk & Şort
+15.3,29.3,3.4,Kapüşonlu Sweatshirt & Şemsiye
+29.6,18.8,5.6,İnce Yağmurluk & Şort
+-1.3,38.3,6.4,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+33.0,32.7,0.0,Tişört & Şort
+3.7,17.0,10.5,Su Geçirmez Kalın Mont & Bot
+28.7,19.7,10.3,İnce Yağmurluk & Şort
+32.4,14.7,0.0,Tişört & Şort
+13.9,2.1,0.1,Hırka & Uzun Kollu Tişört
+11.7,1.2,5.2,Su Geçirmez Ceket & Bot
+14.9,29.7,0.0,Polo Yaka & Chino Pantolon
+9.5,44.7,0.0,Deri Ceket & Sweatshirt
+34.2,32.1,2.9,İnce Yağmurluk & Şort
+19.4,15.7,0.0,Polo Yaka & Chino Pantolon
+18.3,47.3,0.0,Gömlek & Keten Pantolon
+22.2,35.4,0.0,Tişört & Şort
+6.2,21.1,0.0,Deri Ceket & Sweatshirt
+33.1,49.0,0.0,Kısa Kollu Gömlek & Şort
+21.7,23.6,0.0,Tişört & Şort
+3.3,41.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+25.3,34.7,0.7,Kısa Kollu Gömlek & Şort
+12.9,15.9,0.0,Rüzgarlık & Kalın Kazak
+12.0,8.4,0.0,Hırka & Uzun Kollu Tişört
+29.8,26.7,0.0,Tişört & Şort
+11.1,24.2,10.6,Su Geçirmez Ceket & Bot
+38.6,28.3,0.0,Kısa Kollu Gömlek & Şort
+33.9,29.4,0.0,Tişört & Şort
+28.7,25.4,0.0,Kısa Kollu Gömlek & Şort
+26.9,4.9,0.0,Tişört & Şort
+27.6,39.2,0.2,Kısa Kollu Gömlek & Şort
+15.7,12.4,0.5,İnce Uzun Kollu & Jean
+39.8,45.0,0.0,Tişört & Şort
+2.2,12.2,9.9,Su Geçirmez Kalın Mont & Bot
+27.6,1.7,10.6,Şemsiye & İnce Tişört
+12.0,10.7,0.0,Ceket & Sweatshirt
+24.2,31.3,0.0,Tişört & Şort
+34.5,45.5,13.8,İnce Yağmurluk & Şort
+20.1,18.7,0.6,Tişört & Şort
+33.7,11.2,0.0,Tişört & Şort
+30.1,46.5,0.0,Tişört & Şort
+36.2,6.5,0.0,Kısa Kollu Gömlek & Şort
+2.9,45.2,5.7,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+37.2,36.4,0.0,Kısa Kollu Gömlek & Şort
+-1.9,18.0,10.2,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+27.6,26.6,0.0,Kısa Kollu Gömlek & Şort
+10.3,30.1,0.0,Rüzgarlık & Kalın Kazak
+23.5,0.3,0.0,Tişört & Şort
+36.8,46.9,0.0,Tişört & Şort
+32.8,20.8,0.0,Kısa Kollu Gömlek & Şort
+31.1,2.9,11.8,Şemsiye & İnce Tişört
+37.5,35.5,8.8,İnce Yağmurluk & Şort
+13.7,25.9,0.0,Rüzgarlık & Kalın Kazak
+13.3,3.8,0.0,Ceket & Sweatshirt
+28.6,39.0,0.0,Kısa Kollu Gömlek & Şort
+5.3,4.7,0.0,Hırka & Uzun Kollu Tişört
+39.1,12.4,7.8,Şemsiye & İnce Tişört
+6.5,42.9,7.3,Yağmurluk & Şemsiye
+8.7,1.7,0.0,Ceket & Sweatshirt
+10.4,20.7,0.0,Rüzgarlık & Kalın Kazak
+21.8,20.6,0.0,Tişört & Şort
+35.2,13.6,4.0,İnce Yağmurluk & Şort
+34.5,13.8,0.5,Kısa Kollu Gömlek & Şort
+19.9,46.9,0.0,İnce Uzun Kollu & Jean
+31.4,28.0,0.0,Tişört & Şort
+4.2,14.8,0.0,Kalın Mont & Kazak
+26.5,36.0,0.0,Kısa Kollu Gömlek & Şort
+12.0,24.3,0.0,Rüzgarlık & Kalın Kazak
+25.8,34.3,0.2,Kısa Kollu Gömlek & Şort
+-4.5,33.2,13.9,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+20.2,16.9,0.0,Tişört & Şort
+22.6,18.9,0.0,Kısa Kollu Gömlek & Şort
+7.1,13.7,11.3,Su Geçirmez Ceket & Bot
+29.1,35.8,11.7,İnce Yağmurluk & Şort
+29.7,36.3,0.0,Tişört & Şort
+-0.6,39.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+1.0,15.9,0.0,Yün Kazak & Kaban
+22.6,41.7,0.0,Kısa Kollu Gömlek & Şort
+31.8,45.7,0.0,Tişört & Şort
+36.0,16.5,0.0,Tişört & Şort
+9.4,45.8,0.0,Rüzgarlık & Kalın Kazak
+35.1,48.8,12.4,İnce Yağmurluk & Şort
+17.2,24.4,0.0,İnce Uzun Kollu & Jean
+0.8,7.3,0.0,Kalın Mont & Kazak
+20.0,16.9,0.0,Kısa Kollu Gömlek & Şort
+25.1,3.8,0.0,Kısa Kollu Gömlek & Şort
+12.4,42.8,11.5,Yağmurluk & Şemsiye
+12.4,18.9,8.5,Su Geçirmez Ceket & Bot
+34.1,0.5,0.0,Tişört & Şort
+32.1,19.6,0.0,Kısa Kollu Gömlek & Şort
+23.7,2.0,1.1,Tişört & Şort
+22.8,4.0,0.0,Kısa Kollu Gömlek & Şort
+20.0,28.9,0.0,Kısa Kollu Gömlek & Şort
+6.5,48.9,7.1,Kapüşonlu Sweatshirt & Şemsiye
+5.9,11.5,0.0,Ceket & Sweatshirt
+11.7,32.5,0.0,Deri Ceket & Sweatshirt
+35.8,13.8,0.0,Tişört & Şort
+-0.9,22.8,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+-4.4,49.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+0.3,37.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+36.9,27.4,0.0,Kısa Kollu Gömlek & Şort
+35.7,10.0,0.0,Tişört & Şort
+9.6,26.3,1.6,Deri Ceket & Sweatshirt
+10.3,49.7,0.0,Rüzgarlık & Kalın Kazak
+32.8,48.5,0.0,Kısa Kollu Gömlek & Şort
+31.2,7.5,0.0,Tişört & Şort
+4.9,16.2,0.0,Kalın Mont & Kazak
+-1.2,43.5,5.3,Su Geçirmez Kalın Mont & Bot
+-3.5,30.3,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+35.2,38.3,0.0,Tişört & Şort
+27.8,8.2,0.0,Kısa Kollu Gömlek & Şort
+24.5,35.6,6.9,İnce Yağmurluk & Şort
+36.0,14.6,0.0,Kısa Kollu Gömlek & Şort
+-1.6,26.8,0.0,"Şişme Mont, Termal Tayt & Bere"
+16.2,27.7,0.0,Gömlek & Keten Pantolon
+22.7,25.6,0.0,Tişört & Şort
+34.0,10.2,0.0,Tişört & Şort
+17.4,8.2,0.0,İnce Uzun Kollu & Jean
+11.3,37.7,9.7,Yağmurluk & Şemsiye
+38.5,37.6,13.5,İnce Yağmurluk & Şort
+35.1,17.8,0.0,Kısa Kollu Gömlek & Şort
+8.0,29.5,0.0,Deri Ceket & Sweatshirt
+12.3,41.1,6.1,Yağmurluk & Şemsiye
+16.8,18.7,0.0,İnce Uzun Kollu & Jean
+26.3,42.3,0.0,Tişört & Şort
+27.5,10.0,0.0,Kısa Kollu Gömlek & Şort
+0.2,4.4,0.0,Kalın Mont & Kazak
+12.1,26.8,0.0,Deri Ceket & Sweatshirt
+28.6,22.6,8.7,İnce Yağmurluk & Şort
+6.8,24.4,0.0,Deri Ceket & Sweatshirt
+22.5,34.9,0.0,Kısa Kollu Gömlek & Şort
+29.5,26.3,0.0,Tişört & Şort
+12.7,19.3,10.1,Kapüşonlu Sweatshirt & Şemsiye
+2.3,7.3,14.5,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+32.3,31.4,0.0,Kısa Kollu Gömlek & Şort
+6.2,29.8,6.5,Kapüşonlu Sweatshirt & Şemsiye
+19.0,17.8,13.9,Yağmurluk & Şemsiye
+21.4,29.6,0.0,Tişört & Şort
+17.3,20.6,1.2,İnce Uzun Kollu & Jean
+19.7,37.0,0.0,İnce Uzun Kollu & Jean
+34.9,19.4,0.0,Tişört & Şort
+8.8,46.4,3.4,Yağmurluk & Şemsiye
+14.8,46.1,0.0,Gömlek & Keten Pantolon
+4.4,46.3,0.0,"Şişme Mont, Termal Tayt & Bere"
+16.0,46.0,0.0,Polo Yaka & Chino Pantolon
+2.0,1.9,0.0,Yün Kazak & Kaban
+30.3,47.5,0.0,Kısa Kollu Gömlek & Şort
+2.2,42.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+8.7,33.1,0.0,Deri Ceket & Sweatshirt
+17.9,46.8,7.2,Kapüşonlu Sweatshirt & Şemsiye
+29.4,17.3,0.0,Tişört & Şort
+4.0,2.6,0.0,Yün Kazak & Kaban
+30.4,6.3,1.0,Tişört & Şort
+34.5,43.2,0.5,Tişört & Şort
+27.0,16.6,0.0,Tişört & Şort
+15.6,32.0,0.0,Polo Yaka & Chino Pantolon
+26.3,38.0,0.0,Tişört & Şort
+39.2,40.0,9.0,İnce Yağmurluk & Şort
+6.5,36.5,0.0,Deri Ceket & Sweatshirt
+36.9,25.9,0.0,Tişört & Şort
+22.3,20.3,8.0,İnce Yağmurluk & Şort
+32.3,38.1,0.0,Tişört & Şort
+27.7,21.2,0.0,Kısa Kollu Gömlek & Şort
+36.1,18.8,0.0,Kısa Kollu Gömlek & Şort
+1.4,45.2,0.0,"Şişme Mont, Termal Tayt & Bere"
+28.3,40.2,0.0,Tişört & Şort
+8.2,18.5,0.0,Rüzgarlık & Kalın Kazak
+30.9,15.3,0.0,Kısa Kollu Gömlek & Şort
+16.7,8.4,6.0,Su Geçirmez Ceket & Bot
+15.1,47.1,0.0,Gömlek & Keten Pantolon
+2.6,30.8,0.0,"Şişme Mont, Termal Tayt & Bere"
+36.5,19.2,4.7,İnce Yağmurluk & Şort
+12.6,49.2,0.0,Rüzgarlık & Kalın Kazak
+30.1,4.6,0.0,Tişört & Şort
+36.5,6.7,4.6,Şemsiye & İnce Tişört
+2.3,9.6,0.0,Yün Kazak & Kaban
+7.6,43.7,0.0,Deri Ceket & Sweatshirt
+13.1,14.3,13.4,Yağmurluk & Şemsiye
+15.3,28.8,0.0,Gömlek & Keten Pantolon
+17.7,30.9,0.0,İnce Uzun Kollu & Jean
+16.8,0.9,8.4,Yağmurluk & Şemsiye
+17.0,16.2,0.0,İnce Uzun Kollu & Jean
+4.4,18.2,0.0,Yün Kazak & Kaban
+-0.5,18.4,7.8,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+35.5,24.2,0.0,Kısa Kollu Gömlek & Şort
+39.2,20.8,0.0,Tişört & Şort
+4.3,37.6,0.0,"Şişme Mont, Termal Tayt & Bere"
+14.5,9.5,0.0,Polo Yaka & Chino Pantolon
+23.9,6.1,8.5,Şemsiye & İnce Tişört
+39.0,45.1,0.0,Tişört & Şort
+-2.0,24.8,0.0,"Şişme Mont, Termal Tayt & Bere"
+11.7,28.2,0.0,Deri Ceket & Sweatshirt
+-4.1,42.0,0.0,"Şişme Mont, Termal Tayt & Bere"
+2.6,4.8,0.0,Yün Kazak & Kaban
+-2.9,29.2,0.0,"Şişme Mont, Termal Tayt & Bere"
+29.5,41.3,0.0,Kısa Kollu Gömlek & Şort
+25.5,42.0,0.0,Kısa Kollu Gömlek & Şort
+20.3,0.1,0.0,Tişört & Şort
+-3.2,22.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+25.9,27.1,0.0,Tişört & Şort
+33.7,45.1,0.0,Tişört & Şort
+18.4,10.5,0.0,Polo Yaka & Chino Pantolon
+26.3,38.4,0.0,Tişört & Şort
+22.9,17.8,12.3,Şemsiye & İnce Tişört
+22.3,13.1,13.1,İnce Yağmurluk & Şort
+14.3,30.5,2.3,Yağmurluk & Şemsiye
+10.5,31.1,0.0,Deri Ceket & Sweatshirt
+6.1,14.8,0.0,Rüzgarlık & Kalın Kazak
+9.3,6.0,0.0,Ceket & Sweatshirt
+26.6,40.3,0.0,Kısa Kollu Gömlek & Şort
+17.1,29.1,1.8,Gömlek & Keten Pantolon
+37.3,25.5,0.0,Tişört & Şort
+4.4,1.0,0.0,Yün Kazak & Kaban
+-3.4,34.5,0.0,"Şişme Mont, Termal Tayt & Bere"
+24.1,31.1,4.1,Şemsiye & İnce Tişört
+13.0,1.1,6.2,Su Geçirmez Ceket & Bot
+38.5,14.8,6.1,Şemsiye & İnce Tişört
+7.2,10.3,0.0,Ceket & Sweatshirt
+0.0,47.4,5.8,Su Geçirmez Kalın Mont & Bot
+35.8,35.9,0.0,Tişört & Şort
+2.9,4.5,0.0,Kalın Mont & Kazak
+20.7,17.6,7.1,İnce Yağmurluk & Şort
+26.6,30.8,0.0,Kısa Kollu Gömlek & Şort
+37.4,24.5,0.0,Kısa Kollu Gömlek & Şort
+13.6,38.6,0.0,Rüzgarlık & Kalın Kazak
+12.8,2.7,8.6,Kapüşonlu Sweatshirt & Şemsiye
+19.4,20.1,13.1,Kapüşonlu Sweatshirt & Şemsiye
+35.1,14.5,1.1,Tişört & Şort
+6.9,8.3,4.4,Kapüşonlu Sweatshirt & Şemsiye
+10.3,40.6,0.0,Rüzgarlık & Kalın Kazak
+39.1,38.3,3.3,İnce Yağmurluk & Şort
+29.7,37.2,0.0,Kısa Kollu Gömlek & Şort
+36.6,4.2,0.0,Tişört & Şort
+19.6,23.5,5.0,Yağmurluk & Şemsiye
+34.8,31.5,0.0,Tişört & Şort
+13.7,44.3,0.7,Deri Ceket & Sweatshirt
+37.4,14.4,0.0,Kısa Kollu Gömlek & Şort
+8.8,39.9,5.0,Kapüşonlu Sweatshirt & Şemsiye
+14.3,29.2,0.0,Polo Yaka & Chino Pantolon
+22.7,5.4,0.0,Kısa Kollu Gömlek & Şort
+6.0,5.8,0.0,Hırka & Uzun Kollu Tişört
+-4.0,35.4,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+38.1,0.5,0.0,Kısa Kollu Gömlek & Şort
+27.7,31.2,0.0,Kısa Kollu Gömlek & Şort
+12.0,26.6,0.0,Rüzgarlık & Kalın Kazak
+16.0,31.1,6.3,Su Geçirmez Ceket & Bot
+17.2,20.4,0.0,İnce Uzun Kollu & Jean
+25.8,6.2,0.0,Kısa Kollu Gömlek & Şort
+20.9,6.6,3.7,İnce Yağmurluk & Şort
+28.0,16.2,0.0,Tişört & Şort
+38.4,30.9,0.0,Kısa Kollu Gömlek & Şort
+3.1,43.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+-1.0,14.4,3.0,Su Geçirmez Kalın Mont & Bot
+34.2,21.2,1.0,Tişört & Şort
+11.8,13.2,11.7,Yağmurluk & Şemsiye
+38.9,12.5,0.0,Tişört & Şort
+2.5,10.4,0.0,Yün Kazak & Kaban
+-2.6,38.8,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+9.5,14.7,0.0,Deri Ceket & Sweatshirt
+32.8,36.2,0.0,Kısa Kollu Gömlek & Şort
+18.3,34.3,9.4,Kapüşonlu Sweatshirt & Şemsiye
+23.6,25.1,0.0,Tişört & Şort
+29.5,29.8,0.0,Tişört & Şort
+7.5,28.9,0.0,Deri Ceket & Sweatshirt
+6.6,31.2,0.0,Deri Ceket & Sweatshirt
+23.5,46.4,0.0,Tişört & Şort
+29.5,4.9,0.0,Kısa Kollu Gömlek & Şort
+10.5,16.1,6.9,Su Geçirmez Ceket & Bot
+10.2,41.8,0.0,Rüzgarlık & Kalın Kazak
+33.7,16.9,0.0,Tişört & Şort
+4.0,41.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+15.0,4.1,0.0,Polo Yaka & Chino Pantolon
+-4.1,16.4,0.0,Yün Kazak & Kaban
+11.1,43.0,11.2,Su Geçirmez Ceket & Bot
+6.5,6.8,13.9,Su Geçirmez Ceket & Bot
+16.0,5.1,0.0,Polo Yaka & Chino Pantolon
+2.2,15.5,0.0,Kalın Mont & Kazak
+17.0,42.7,0.0,İnce Uzun Kollu & Jean
+32.1,46.1,0.0,Kısa Kollu Gömlek & Şort
+-2.5,41.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+14.3,47.9,2.2,Kapüşonlu Sweatshirt & Şemsiye
+7.1,48.2,0.0,Rüzgarlık & Kalın Kazak
+25.3,26.9,2.7,İnce Yağmurluk & Şort
+13.2,48.6,0.0,Rüzgarlık & Kalın Kazak
+7.3,27.6,2.6,Su Geçirmez Ceket & Bot
+7.3,12.5,0.0,Ceket & Sweatshirt
+28.1,14.3,10.5,İnce Yağmurluk & Şort
+39.3,8.5,0.0,Kısa Kollu Gömlek & Şort
+3.4,1.0,0.0,Yün Kazak & Kaban
+-0.1,19.2,0.0,Kalın Mont & Kazak
+21.7,28.2,0.0,Tişört & Şort
+7.7,9.1,0.0,Hırka & Uzun Kollu Tişört
+36.3,11.2,0.0,Kısa Kollu Gömlek & Şort
+20.4,45.9,6.4,İnce Yağmurluk & Şort
+23.7,43.2,14.4,Şemsiye & İnce Tişört
+24.5,15.7,0.0,Tişört & Şort
+37.5,13.5,0.0,Kısa Kollu Gömlek & Şort
+10.6,47.8,12.3,Yağmurluk & Şemsiye
+38.9,26.1,0.0,Tişört & Şort
+7.8,47.1,0.0,Rüzgarlık & Kalın Kazak
+36.4,36.2,12.6,Şemsiye & İnce Tişört
+17.8,48.9,0.0,Polo Yaka & Chino Pantolon
+7.3,15.0,0.0,Deri Ceket & Sweatshirt
+4.0,48.5,4.5,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+5.3,32.0,8.8,Yağmurluk & Şemsiye
+8.2,44.6,4.2,Su Geçirmez Ceket & Bot
+29.8,21.8,1.6,Kısa Kollu Gömlek & Şort
+14.5,29.0,6.7,Yağmurluk & Şemsiye
+-0.3,7.4,12.2,Su Geçirmez Kalın Mont & Bot
+9.6,38.7,8.1,Su Geçirmez Ceket & Bot
+22.6,32.0,6.6,Şemsiye & İnce Tişört
+23.9,48.3,0.0,Kısa Kollu Gömlek & Şort
+0.6,32.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+17.0,45.3,8.0,Su Geçirmez Ceket & Bot
+18.1,24.9,8.9,Kapüşonlu Sweatshirt & Şemsiye
+1.0,10.4,0.0,Kalın Mont & Kazak
+12.3,42.5,0.0,Rüzgarlık & Kalın Kazak
+22.4,5.7,0.0,Tişört & Şort
+24.5,16.8,14.2,Şemsiye & İnce Tişört
+-3.4,26.5,0.0,"Şişme Mont, Termal Tayt & Bere"
+-2.8,24.9,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+28.7,37.7,0.0,Tişört & Şort
+7.8,44.8,14.7,Kapüşonlu Sweatshirt & Şemsiye
+7.4,1.7,0.0,Hırka & Uzun Kollu Tişört
+-2.6,1.6,0.0,Kalın Mont & Kazak
+25.9,26.3,6.8,Şemsiye & İnce Tişört
+15.1,8.0,0.0,Gömlek & Keten Pantolon
+25.6,32.2,11.9,İnce Yağmurluk & Şort
+4.4,22.2,3.8,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+36.7,48.1,0.0,Tişört & Şort
+16.2,5.4,0.0,İnce Uzun Kollu & Jean
+5.7,6.7,13.1,Yağmurluk & Şemsiye
+3.4,22.9,0.0,"Şişme Mont, Termal Tayt & Bere"
+11.6,10.6,0.0,Hırka & Uzun Kollu Tişört
+14.0,2.5,14.0,Yağmurluk & Şemsiye
+25.8,47.9,0.0,Kısa Kollu Gömlek & Şort
+7.6,45.5,0.0,Rüzgarlık & Kalın Kazak
+16.1,31.7,5.1,Su Geçirmez Ceket & Bot
+15.1,40.1,12.5,Kapüşonlu Sweatshirt & Şemsiye
+19.0,34.3,0.0,Polo Yaka & Chino Pantolon
+39.5,0.9,0.3,Kısa Kollu Gömlek & Şort
+36.8,38.4,0.0,Kısa Kollu Gömlek & Şort
+1.7,43.4,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+23.9,7.9,0.0,Tişört & Şort
+-3.0,18.2,0.0,Kalın Mont & Kazak
+3.1,34.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+9.1,19.0,0.0,Rüzgarlık & Kalın Kazak
+16.5,6.5,0.0,İnce Uzun Kollu & Jean
+0.4,3.0,0.0,Kalın Mont & Kazak
+1.1,7.4,5.4,Su Geçirmez Kalın Mont & Bot
+12.1,20.0,0.0,Rüzgarlık & Kalın Kazak
+8.9,1.4,0.0,Ceket & Sweatshirt
+-0.0,12.3,5.6,Su Geçirmez Kalın Mont & Bot
+31.0,18.9,0.0,Tişört & Şort
+25.6,19.0,6.7,Şemsiye & İnce Tişört
+29.5,4.6,0.0,Kısa Kollu Gömlek & Şort
+6.1,26.3,0.0,Deri Ceket & Sweatshirt
+27.3,16.8,0.0,Tişört & Şort
+7.7,0.1,0.0,Hırka & Uzun Kollu Tişört
+-0.3,33.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+29.7,13.5,4.5,Şemsiye & İnce Tişört
+8.5,9.3,0.0,Hırka & Uzun Kollu Tişört
+0.1,39.8,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+24.5,23.4,0.0,Kısa Kollu Gömlek & Şort
+8.4,18.2,0.0,Rüzgarlık & Kalın Kazak
+29.0,40.6,1.8,Kısa Kollu Gömlek & Şort
+31.9,4.7,0.0,Kısa Kollu Gömlek & Şort
+2.5,40.6,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+-3.7,31.7,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+3.5,26.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+16.3,36.4,0.0,Polo Yaka & Chino Pantolon
+36.6,46.1,0.0,Kısa Kollu Gömlek & Şort
+16.9,50.0,0.0,Gömlek & Keten Pantolon
+19.7,17.0,0.0,Polo Yaka & Chino Pantolon
+15.5,14.1,5.6,Kapüşonlu Sweatshirt & Şemsiye
+34.1,14.0,2.0,Kısa Kollu Gömlek & Şort
+1.1,14.2,0.0,Kalın Mont & Kazak
+35.0,14.2,0.4,Kısa Kollu Gömlek & Şort
+27.9,19.6,0.0,Tişört & Şort
+28.2,28.6,0.9,Tişört & Şort
+7.7,38.7,12.6,Yağmurluk & Şemsiye
+12.2,31.5,0.0,Rüzgarlık & Kalın Kazak
+26.9,5.5,13.3,Şemsiye & İnce Tişört
+22.4,18.9,5.3,Şemsiye & İnce Tişört
+29.5,23.3,0.0,Tişört & Şort
+2.1,41.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+22.5,40.2,0.0,Tişört & Şort
+17.7,7.0,0.0,Polo Yaka & Chino Pantolon
+10.0,38.0,0.0,Rüzgarlık & Kalın Kazak
+37.6,10.9,3.4,İnce Yağmurluk & Şort
+21.6,17.6,0.0,Kısa Kollu Gömlek & Şort
+11.5,35.9,0.0,Rüzgarlık & Kalın Kazak
+-1.9,1.4,0.0,Yün Kazak & Kaban
+1.9,25.1,14.2,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+7.4,29.7,3.2,Su Geçirmez Ceket & Bot
+21.3,23.3,0.4,Kısa Kollu Gömlek & Şort
+37.6,40.9,0.0,Kısa Kollu Gömlek & Şort
+11.2,6.8,10.0,Su Geçirmez Ceket & Bot
+36.6,36.9,10.8,Şemsiye & İnce Tişört
+39.1,6.5,0.6,Kısa Kollu Gömlek & Şort
+32.5,42.8,10.6,Şemsiye & İnce Tişört
+7.7,18.5,0.0,Deri Ceket & Sweatshirt
+-4.0,5.3,0.0,Yün Kazak & Kaban
+-5.0,25.0,2.6,Su Geçirmez Kalın Mont & Bot
+39.2,41.1,0.0,Kısa Kollu Gömlek & Şort
+-0.0,9.4,0.0,Kalın Mont & Kazak
+9.9,16.9,0.0,Deri Ceket & Sweatshirt
+35.2,6.1,0.0,Tişört & Şort
+21.9,0.9,0.0,Tişört & Şort
+3.6,24.4,0.3,"Şişme Mont, Termal Tayt & Bere"
+37.7,33.9,0.0,Kısa Kollu Gömlek & Şort
+24.3,15.0,0.0,Kısa Kollu Gömlek & Şort
+26.9,8.6,5.8,Şemsiye & İnce Tişört
+36.6,32.1,0.0,Tişört & Şort
+20.7,25.7,11.1,İnce Yağmurluk & Şort
+19.4,29.7,0.0,İnce Uzun Kollu & Jean
+15.0,31.9,0.0,Polo Yaka & Chino Pantolon
+32.1,19.7,0.0,Kısa Kollu Gömlek & Şort
+25.1,30.3,2.6,İnce Yağmurluk & Şort
+23.3,23.9,13.6,İnce Yağmurluk & Şort
+35.5,32.9,0.0,Tişört & Şort
+17.6,16.3,6.1,Yağmurluk & Şemsiye
+17.3,42.4,14.9,Su Geçirmez Ceket & Bot
+34.0,28.1,10.3,İnce Yağmurluk & Şort
+28.7,34.2,0.0,Kısa Kollu Gömlek & Şort
+13.5,40.3,3.9,Kapüşonlu Sweatshirt & Şemsiye
+18.3,33.0,0.0,İnce Uzun Kollu & Jean
+30.9,9.8,0.0,Tişört & Şort
+38.3,31.0,7.7,Şemsiye & İnce Tişört
+12.9,18.7,0.0,Rüzgarlık & Kalın Kazak
+28.6,42.2,0.0,Tişört & Şort
+20.0,34.3,7.7,Şemsiye & İnce Tişört
+-3.6,2.0,0.0,Yün Kazak & Kaban
+6.4,11.2,0.0,Ceket & Sweatshirt
+36.5,49.4,14.0,Şemsiye & İnce Tişört
+1.6,40.7,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+22.0,35.4,0.0,Tişört & Şort
+1.6,41.5,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+4.4,15.4,0.0,Kalın Mont & Kazak
+22.6,7.4,0.0,Tişört & Şort
+5.9,39.9,1.8,Deri Ceket & Sweatshirt
+27.5,18.8,0.0,Tişört & Şort
+33.9,38.8,0.0,Kısa Kollu Gömlek & Şort
+1.5,47.7,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+8.6,12.0,0.0,Hırka & Uzun Kollu Tişört
+29.6,8.8,8.6,İnce Yağmurluk & Şort
+17.5,37.4,0.0,İnce Uzun Kollu & Jean
+3.9,45.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+31.6,47.0,0.0,Tişört & Şort
+34.4,21.0,4.3,Şemsiye & İnce Tişört
+-0.1,48.9,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+29.6,26.4,0.0,Tişört & Şort
+26.5,45.1,0.0,Tişört & Şort
+0.5,4.7,11.4,Su Geçirmez Kalın Mont & Bot
+27.3,48.6,0.0,Kısa Kollu Gömlek & Şort
+5.3,25.9,1.1,Rüzgarlık & Kalın Kazak
+25.7,32.6,0.0,Kısa Kollu Gömlek & Şort
+9.6,38.1,0.0,Deri Ceket & Sweatshirt
+18.1,14.1,0.0,İnce Uzun Kollu & Jean
+29.1,10.3,0.0,Kısa Kollu Gömlek & Şort
+33.9,38.9,0.0,Kısa Kollu Gömlek & Şort
+-4.9,22.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+38.0,22.4,0.0,Tişört & Şort
+20.9,42.8,14.0,İnce Yağmurluk & Şort
+8.6,30.4,8.9,Su Geçirmez Ceket & Bot
+6.9,4.4,5.1,Kapüşonlu Sweatshirt & Şemsiye
+26.9,45.7,6.5,Şemsiye & İnce Tişört
+16.0,46.0,0.0,Polo Yaka & Chino Pantolon
+15.5,38.2,0.0,İnce Uzun Kollu & Jean
+17.0,41.5,0.0,Polo Yaka & Chino Pantolon
+13.4,11.3,0.0,Hırka & Uzun Kollu Tişört
+6.6,37.4,0.0,Deri Ceket & Sweatshirt
+-2.9,28.7,3.6,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+26.3,7.2,0.0,Tişört & Şort
+23.0,14.7,0.0,Kısa Kollu Gömlek & Şort
+20.3,4.1,8.5,Şemsiye & İnce Tişört
+38.0,15.0,0.8,Kısa Kollu Gömlek & Şort
+21.8,0.2,6.5,İnce Yağmurluk & Şort
+34.7,37.6,0.0,Kısa Kollu Gömlek & Şort
+12.0,34.6,0.0,Rüzgarlık & Kalın Kazak
+8.5,35.7,7.2,Yağmurluk & Şemsiye
+5.1,46.2,0.0,Rüzgarlık & Kalın Kazak
+-2.0,44.7,0.0,"Şişme Mont, Termal Tayt & Bere"
+4.0,14.7,6.2,Su Geçirmez Kalın Mont & Bot
+6.5,20.1,0.0,Deri Ceket & Sweatshirt
+30.8,13.3,0.0,Tişört & Şort
+14.8,36.2,0.0,İnce Uzun Kollu & Jean
+32.5,48.4,0.0,Tişört & Şort
+17.7,8.4,0.0,Gömlek & Keten Pantolon
+-4.9,28.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+34.0,34.9,0.0,Tişört & Şort
+-0.9,12.7,0.0,Yün Kazak & Kaban
+-1.7,43.2,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+8.1,4.9,0.0,Hırka & Uzun Kollu Tişört
+37.9,18.9,13.8,Şemsiye & İnce Tişört
+28.1,20.3,0.0,Tişört & Şort
+4.9,4.0,0.0,Kalın Mont & Kazak
+14.4,5.4,0.0,Gömlek & Keten Pantolon
+32.8,41.5,0.0,Tişört & Şort
+11.3,25.8,10.5,Su Geçirmez Ceket & Bot
+14.5,6.6,0.0,Polo Yaka & Chino Pantolon
+28.7,15.2,0.0,Tişört & Şort
+-0.3,37.5,0.0,"Şişme Mont, Termal Tayt & Bere"
+23.0,46.1,0.0,Tişört & Şort
+0.2,30.6,14.6,"Yağmurluk, Kalın Kazak & Su Geçirmez Bot"
+0.5,2.7,0.0,Yün Kazak & Kaban
+13.1,3.3,0.0,Hırka & Uzun Kollu Tişört
+22.1,28.8,10.3,Şemsiye & İnce Tişört
+1.9,18.2,0.0,Yün Kazak & Kaban
+21.3,37.8,0.0,Kısa Kollu Gömlek & Şort
+39.2,49.1,0.0,Kısa Kollu Gömlek & Şort
+36.0,49.1,5.9,Şemsiye & İnce Tişört
+24.4,0.8,0.0,Tişört & Şort
+37.2,48.2,0.0,Kısa Kollu Gömlek & Şort
+34.9,36.8,0.0,Kısa Kollu Gömlek & Şort
+14.6,36.3,7.4,Su Geçirmez Ceket & Bot
+30.3,0.0,0.0,Tişört & Şort
+21.7,10.4,0.0,Kısa Kollu Gömlek & Şort
+26.2,42.3,0.0,Tişört & Şort
+-3.3,6.6,0.0,Kalın Mont & Kazak
+9.9,8.7,0.0,Ceket & Sweatshirt
+10.0,17.0,0.0,Deri Ceket & Sweatshirt
+-1.2,37.0,0.0,"Şişme Mont, Termal Tayt & Bere"
+1.4,14.5,0.0,Yün Kazak & Kaban
+31.8,13.3,14.7,İnce Yağmurluk & Şort
+2.5,27.0,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+31.0,34.9,1.5,Kısa Kollu Gömlek & Şort
+5.9,44.0,0.0,Deri Ceket & Sweatshirt
+7.6,37.3,0.0,Rüzgarlık & Kalın Kazak
+29.5,20.2,0.0,Tişört & Şort
+-4.0,32.4,0.0,"Şişme Mont, Termal Tayt & Bere"
+29.0,39.7,0.0,Kısa Kollu Gömlek & Şort
+18.9,25.4,0.0,Polo Yaka & Chino Pantolon
+7.8,40.3,0.0,Deri Ceket & Sweatshirt
+38.0,21.5,0.0,Tişört & Şort
+3.6,11.2,0.0,Kalın Mont & Kazak
+3.0,44.1,0.0,"Kalın Kaban, Bere, Eldiven & Atkı"
+25.0,0.5,0.0,Kısa Kollu Gömlek & Şort
+10.6,4.4,0.0,Hırka & Uzun Kollu Tişört
+35.4,46.7,0.0,Kısa Kollu Gömlek & Şort
+30.9,25.9,9.3,İnce Yağmurluk & Şort
