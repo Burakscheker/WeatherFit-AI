@@ -39,7 +39,7 @@ model.fit(X_train, y_train)
 print(f"2. Yapay Zeka Eğitildi!")
 
 # API BAĞLANTISI VE KULLANICI GİRİŞİ
-API_KEY = "ebeac711d8da467784f173907260203"
+API_KEY = "YOUR_API_KEY"
 
 secilen_sehir = input("🌍 Hangi şehir için öneri istersiniz? (Örn: izmir): ").strip()
 secilen_gun = input("📅 Bugün mü, yoksa Yarın için mi öneri istersiniz? (bugün / yarın): ").strip().lower()
